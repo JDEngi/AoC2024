@@ -1,3 +1,5 @@
+use shared::add;
+
 fn main() {
-    println!("Hello, world!");
+    println!("Hello, world!: {}", add(1, 6));
 }
