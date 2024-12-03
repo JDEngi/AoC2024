@@ -1,0 +1,6 @@
+[workspace]
+members = ["day3-1", "shared"]
+
+
+[workspace.dependencies]
+shared = {path = "shared"}
