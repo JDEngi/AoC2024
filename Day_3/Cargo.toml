@@ -1,5 +1,5 @@
 [workspace]
-members = ["day3-1", "shared"]
+members = ["day3-1", "day3-2", "shared"]
 
 
 [workspace.dependencies]
